@@ -112,7 +112,7 @@ O terminal deve ficar em "silêncio", ou seja, não irá reclamar de nada.
 Configurando o Virtual Host
 ---
 
-Vamos colocar a mão no Apache, mas antes, vamos alterar o arquivo [hosts](/misc/arquivo-hosts/) para que ele faça o
+Vamos colocar a mão no Apache, mas antes, vamos alterar o arquivo [hosts](/miscellaneous/arquivo-hosts/) para que ele faça o
 redirecionamento de `www.flask-test.loc` para o endereço `127.0.0.1`.
 
 Acesse o arquivo hosts no endereço `/etc/hosts` e inclua o conteúdo abaixo.
@@ -123,7 +123,7 @@ Acesse o arquivo hosts no endereço `/etc/hosts` e inclua o conteúdo abaixo.
 Eu estou utilizando o exemplo `www.flask-test.loc`, mas você pode utilizar a URL que preferir. Apenas certifique-se de
 replicá-la no arquivo de Virtual Host, falando nele...
 
-Agora devemo criar um arquivo contendo as informações de nossa [Virtual Host](/misc/apache-virtual-host/).
+Agora devemo criar um arquivo contendo as informações de nossa [Virtual Host](/miscellaneous/apache-virtual-host/).
 
 Este exemplo é válido para o sistema __Debian__ e você terá que fazer as devidas adaptações para o sistema da famíla HedHat.
 

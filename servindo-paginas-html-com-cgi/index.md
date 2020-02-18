@@ -81,9 +81,9 @@ Quarto e último, reinicie o Apache para que as alterações tenha efeito.
 Infelizmente, a configuração pode não ser tão simples assim. Se precisar de mais detalhes, veja as matérias abaixo para
 entender melhor o que você deve fazer para configurar o Apache corretamente.
 
-- [Arquivo hosts (/etc/hosts)](/misc/arquivo-hosts/)
-- [Apache - Configurando Virtual Hosts](/misc/apache-virtual-host/)
-- [CGI Servindo páginas web (html)](/misc/cgi-common-gateway-interface/)
+- [Arquivo hosts (/etc/hosts)](/miscellaneous/arquivo-hosts/)
+- [Apache - Configurando Virtual Hosts](/miscellaneous/apache-virtual-host/)
+- [CGI Servindo páginas web (html)](/miscellaneous/cgi-common-gateway-interface/)
 
 
 
@@ -130,8 +130,8 @@ Na seção Python (atual):
 
 - [Python, servindo páginas HTML com WSGI](/python/servindo-paginas-html-com-wsgi/)
 
-Na seção [Miscellaneous](/misc/):
+Na seção [Miscellaneous](/miscellaneous/):
 
-- [Arquivo hosts (/etc/hosts)](/misc/arquivo-hosts/)
-- [Apache - Configurando Virtual Hosts](/misc/apache-virtual-host/)
-- [CGI Servindo páginas web (html)](/misc/cgi-common-gateway-interface/)
+- [Arquivo hosts (/etc/hosts)](/miscellaneous/arquivo-hosts/)
+- [Apache - Configurando Virtual Hosts](/miscellaneous/apache-virtual-host/)
+- [CGI Servindo páginas web (html)](/miscellaneous/cgi-common-gateway-interface/)

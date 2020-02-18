@@ -10,8 +10,8 @@ Este artigo é um primeiro passo para quem quer testar e experimentar a especifi
 entender como servir páginas HTML com Python.
 
 Iremos configurar o Apache para executarmos script Python utilizando o WSGI. Não é necessário, mas seria bom se você
-entendesse bem o que é o [Arquivo hosts (/etc/hosts)](/misc/arquivo-hosts/) e tivesse experiência prévia sobre
-[como configurar Virtual Hosts no Apache](/misc/apache-virtual-host/).
+entendesse bem o que é o [Arquivo hosts (/etc/hosts)](/miscellaneous/arquivo-hosts/) e tivesse experiência prévia sobre
+[como configurar Virtual Hosts no Apache](/miscellaneous/apache-virtual-host/).
 
 O objetivo e acessarmos o endereço `www.foo.local/wsgi-bin` e  encontramos o resultado de nossos script em CGI na pasta
 `/pasta/de/projetos/foo/wsgi-bin/`.
@@ -124,8 +124,8 @@ Quarto e último, reinicie o Apache para que as alterações tenha efeito (`serv
 Infelizmente, a configuração pode não ser tão simples assim, veja as matérias abaixo para entender, de forma detalhada,
 o que você deve fazer para configurar corretamente o servidor web.
 
-- [Arquivo hosts (/etc/hosts)](/misc/arquivo-hosts/)
-- [Apache - Configurando Virtual Hosts](/misc/apache-virtual-host/)
+- [Arquivo hosts (/etc/hosts)](/miscellaneous/arquivo-hosts/)
+- [Apache - Configurando Virtual Hosts](/miscellaneous/apache-virtual-host/)
 
 
 
@@ -212,8 +212,8 @@ Na seção Python (atual):
 
 - [Python, servindo páginas HTML com CGI](/python/servindo-paginas-html-com-cgi/)
 
-Na seção [Miscellaneous](/misc/):
+Na seção [Miscellaneous](/miscellaneous/):
 
-- [Arquivo hosts (/etc/hosts)](/misc/arquivo-hosts/)
-- [Apache - Configurando Virtual Hosts](/misc/apache-virtual-host/)
-- [CGI Servindo páginas web (html)](/misc/cgi-common-gateway-interface/)
+- [Arquivo hosts (/etc/hosts)](/miscellaneous/arquivo-hosts/)
+- [Apache - Configurando Virtual Hosts](/miscellaneous/apache-virtual-host/)
+- [CGI Servindo páginas web (html)](/miscellaneous/cgi-common-gateway-interface/)
