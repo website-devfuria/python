@@ -55,9 +55,6 @@ lógica de programação.
 
 Eu preparei um __curso de lógica de programação aliada a testes unitários__ que é fora do comun.
 
-Cadastre [aqui seu email](/logica-de-programacao/curso-de-logica.php?utm_source=devfuria.com.br&utm_campaign=logica-proxima-turma&utm_medium=python-index)
-para não perder a próxima turma!
-
 
 <!--
 Eu preparei a seção __Lógica de programação__ com exercícios nas linguagens C, C++ e Python.
