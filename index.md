@@ -120,7 +120,7 @@ desenvolvimento de software, eu apenas traduzi os enunciados.
     </div>
     <div class="col-md-3">
         <ul class="list-group">
-            <li class="list-group-item "><a href="/built-in-enumerate/">enumarate</a></li>
+            <li class="list-group-item "><a href="./built-in-enumerate/">enumarate</a></li>
             <li class="list-group-item disabled">eval</li>
             <li class="list-group-item disabled">exec</li>
             <li class="list-group-item disabled">filter</li>
@@ -146,7 +146,7 @@ desenvolvimento de software, eu apenas traduzi os enunciados.
             <li class="list-group-item disabled">issubclass</li>
             <li class="list-group-item disabled">iter</li>
             <li class="list-group-item disabled">len</a></li>
-            <li class="list-group-item "><a href="/built-in-list/">list</a></li>
+            <li class="list-group-item "><a href="./built-in-list/">list</a></li>
             <li class="list-group-item disabled">locals</li>
             <li class="list-group-item disabled">map</li>
             <li class="list-group-item disabled">max</li>
@@ -166,7 +166,7 @@ desenvolvimento de software, eu apenas traduzi os enunciados.
     <div class="col-md-3">
         <ul class="list-group">
             <li class="list-group-item disabled">range</a></li>
-            <li class="list-group-item "><a href="/built-in-repr/">repr</a></li>
+            <li class="list-group-item "><a href="./built-in-repr/">repr</a></li>
             <li class="list-group-item disabled">reversed</li>
             <li class="list-group-item disabled">round</li>
             <li class="list-group-item disabled">set</li>
@@ -181,7 +181,7 @@ desenvolvimento de software, eu apenas traduzi os enunciados.
             <li class="list-group-item disabled">tuple</li>
             <li class="list-group-item disabled">type</li>
             <li class="list-group-item disabled">vars</li>
-            <li class="list-group-item "><a href="/built-in-zip/">zip</a></li>
+            <li class="list-group-item "><a href="./built-in-zip/">zip</a></li>
             <li class="list-group-item disabled">__import__</li>
         </ul>
     </div>
