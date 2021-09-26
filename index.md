@@ -228,12 +228,12 @@ Aprenda a [instalar o Virtualenv](/linux/instalando-virtualenv/).
 Aprenda a [instalar o pil](/linux/instalando-pil/).
 
 
-
+<!--
 ## Livros de Python para iniciantes
 
 Leia este belo artigo de Eric Hideki onde o autor indica alguns bons livros (em português) sobre Python
 [Livros de Python, quais são as boas indicações?](http://blog.pycursos.com/livros-de-python-quais-sao-as-boas-indicacoes/#comment-21243)
-
+-->
 
 
 ## Comunidade (indo além!)
