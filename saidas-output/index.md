@@ -1,5 +1,5 @@
 ---
-title:       Python - saídas (output)
+title:       Python - Saídas (output)
 description: O básico sobre saídas (output) em Python
 capitulo:    python-basico
 ordem:       2

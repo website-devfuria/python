@@ -1,5 +1,5 @@
 ---
-title:       Python - erros e exceções
+title:       Python - Erros e exceções
 description: Entenda como trabalhar com erros e exceções em Python
 capitulo:    python-basico
 ordem:       9

@@ -1,5 +1,5 @@
 ---
-title:       Python O básico sobre estrutura condicionais
+title:       Python - O básico sobre estrutura condicionais
 description: O básico sobre estrutura condicionais (Python)
 capitulo:    python-basico
 ordem:       3

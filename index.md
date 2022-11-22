@@ -4,9 +4,9 @@ title:       Python
 description: Aprenda a programar em Python com esse curso grátis online de forma descomplicada.
 ---
 
-Bem vindo ao Curso Online Grátis de Python!
+Bem vindo a seção de Python aqui no site DevFuria!
 
-Ele é um tutorial que vái do básico ao intermediário em Python.
+Ele é um tutorial que vai do básico ao intermediário em Python.
 
 Ele também é um verdadeiro guia para iniciantes na linguagem Python.
 
