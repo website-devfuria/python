@@ -5,8 +5,7 @@ capitulo:    python-artigos
 ordem:       1
 ---
 
-
-Para converter um lista em strings...
+Para converter uma lista em strings...
 
 ```python
 >>> list = ['primeiro', 'segundo', 'terceiro']
